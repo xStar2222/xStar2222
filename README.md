@@ -8,4 +8,4 @@ Currently trying to learn everything I can myself until I start college in Janua
 * Windows 98 Browser Sim (Just cuse I think it's cool)
 * Personal Website (Putting this off till I actually have projects worth bragging about)
 
-> If you would like to work on something with me so we can learn together, please message me on Discord at xStar#2222     :)
+> If you would like to work on something with me so we can learn together, please message me on Discord at xStar#6070     :)
