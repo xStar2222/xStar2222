@@ -4,4 +4,4 @@
 
 Valencia -> UCF CS
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xStar2222)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/867ddedc-09be-4af0-a321-b02b1f5cfee4.svg)](https://wakatime.com/@867ddedc-09be-4af0-a321-b02b1f5cfee4)
