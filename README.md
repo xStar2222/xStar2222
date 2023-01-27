@@ -1,8 +1,10 @@
 19 - learning automation + more
 
 
-
-Valencia -> UCF CS  
+:mortar_board:  
+Valencia 2023 - 2025
+  
+UCF 2025 - 2027
   
 &nbsp;
 &nbsp;
