@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=xStar2222&color=blue)
-
 19 - learning automation + more
 
 
