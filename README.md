@@ -14,8 +14,8 @@ UCF 2025 - 2027
 
 **Total time coded since Jan 26 2023**
 
-[![wakatime](https://wakatime.com/badge/user/97d3ce37-1034-4560-a710-9d8033a93ed0.svg)]
+![wakatime](https://wakatime.com/badge/user/97d3ce37-1034-4560-a710-9d8033a93ed0.svg)
 ------------------------------------------------------------------------------------------
 
 # Breakdown
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xStar2222)]
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xStar2222)
