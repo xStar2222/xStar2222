@@ -21,10 +21,12 @@ UCF 2025 - 2027
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xStar2222)
 
 
-📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
+```text
+From: 01 May 2023 - To: 08 May 2023
+
+
+```
 
 <!--END_SECTION:waka-->
-
--------
