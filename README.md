@@ -25,6 +25,3 @@ JSON         1 hr 1 min      ##-----------------------   07.34 %
 ```
 
 <!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
