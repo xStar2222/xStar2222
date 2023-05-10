@@ -14,13 +14,8 @@
 
 ### ⏲️ This week I spent time on...
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-```text
-Python       60 hrs 1 min    ██████████████████▓░░░░░░   75.22 %
-JavaScript   5 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-HTML         4 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-JSON         3 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-CSS          3 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-```
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
