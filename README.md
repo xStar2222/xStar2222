@@ -1,10 +1,12 @@
-19 - learning automation + more
+## 👋 Welcome, I'm Aj (Arthur Jr.)    <img src="./assets/funny-dance.gif" height="20" width="20">
 
 
-🎓
-Valencia 2023 - 2025
+- 19 years old
+- Currently a freshman at Valecnia College (2023 - 2025)
+- Planning on transfering to University of Central Florida (2025 - 2027)
 
-UCF 2025 - 2027
+
+
 
 
 ### ⏲️ This week I spent time on...
