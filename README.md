@@ -2,8 +2,10 @@
 
 
 - 19 years old
-- Currently a freshman at Valecnia College (2023 - 2025)
-- Planning on transfering to University of Central Florida (2025 - 2027)
+- Currently a freshman at Valencia  College (2023 - 2025)
+- Planning on transferring  to University of Central Florida (2025 - 2027)
+- Always looking to contribute to any Python project!
+- Contact me on Discord or on Twitter: [xStar2222](https://twitter.com/xStar2222)
 
 
 
