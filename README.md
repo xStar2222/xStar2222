@@ -16,8 +16,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2023 - To: 11 May 2023
-
 JavaScript   4 hrs 19 mins   ########-----------------   30.51 %
 Python       3 hrs 2 mins    #####--------------------   21.39 %
 HTML         2 hrs 41 mins   #####--------------------   18.93 %
