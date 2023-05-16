@@ -13,4 +13,4 @@
 
 
 ### ⏲️ This week I spent time on...
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@xStar2222&range=last_7_days&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Wakatime Stats" width="480" />](https://wakatime.com/@xStar2222)
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@xStar2222&range=last_7_days&theme=dark&hide_border=true&layout=compact&custom_title=%20%20%20%20Stats:%20%20" alt="Wakatime Stats" width="480" />](https://wakatime.com/@xStar2222)
