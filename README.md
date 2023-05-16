@@ -13,4 +13,4 @@
 
 
 ### ⏲️ This week I spent time on...
-[![Aj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xStar2222)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xStar2222&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
