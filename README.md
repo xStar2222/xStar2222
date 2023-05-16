@@ -13,15 +13,4 @@
 
 
 ### ⏲️ This week I spent time on...
-<!--START_SECTION:waka-->
-
-```text
-Python       3 hrs 2 mins    #############------------   50.64 %
-Markdown     1 hr 35 mins    #######------------------   26.43 %
-CSS          29 mins         ##-----------------------   08.17 %
-HTML         17 mins         #------------------------   04.86 %
-JSON         15 mins         #------------------------   04.25 %
-JavaScript   15 mins         #------------------------   04.17 %
-```
-
-<!--END_SECTION:waka-->
+[![Aj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xStar2222)](https://github.com/anuraghazra/github-readme-stats)
