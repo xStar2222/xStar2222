@@ -2,8 +2,8 @@
 
 
 - 19 years old
-- Currently a freshman at Valencia  College (2023 - 2025)
-- Planning on transferring  to University of Central Florida (2025 - 2027)
+- Currently a freshman at Valencia  College (2023 - 2025) (A.A.)
+- Set to join University of Central Florida (2025-2027) (C.S.)
 - Always looking to contribute to any Python project!
 
 
