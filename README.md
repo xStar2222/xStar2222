@@ -1,4 +1,4 @@
-## 👋 Welcome, I'm A.j. (Arthur Jr.)    <img src="./assets/funny-dance.gif" height="20" width="20">
+## Hi, I'm A.j. (Arthur Jr.)    <img src="./assets/funny-dance.gif" height="20" width="20">
 
 
 - 20 years old
