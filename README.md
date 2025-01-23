@@ -8,7 +8,7 @@
 - Most repositories are private as they're for school. Currently learning Java.
 
 ### Contact Me:
-- Discord: xStar#2222
+- Discord: xstar2222
 
 
 ### ⏲️ This week I spent time on...
