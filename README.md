@@ -1,7 +1,7 @@
 ## Hi, I'm A.j. (Arthur Jr.)    <img src="./assets/funny-dance.gif" height="20" width="20">
 
 
-- 20 years old
+- 21 years old
 - Currently attending Valencia  College (2023 - 2025) (A.A.)
 - Set to join University of Central Florida (2025-2027) (C.S.)
 - Always looking to contribute to any Python project!
